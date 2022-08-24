@@ -1,5 +1,6 @@
-### Olá, bem-vindo(a)! 
-##
+<h2 align="left">Olá, bem-vindo(a)!</h2>
+
+###
 - Entrando no mundo da Tecnologia, criei esse perfil para tentar me obrigar a estudar esse tema frequentemente, além de me ajudar na organização e compilação do que já foi estudado. Trabalho com relatórios de Business Intelligence, então tenho experiência em DAX e SQL por conta de suas aplicações no Excel e Power BI.
 ##
 - No momento, aprendendo Python! Principalmente no campo de Data Science. Futuramente, gostaria de entrar mais no mundo do Front-end, já que vejo como uma forma interessante de exibir análise de dados.
